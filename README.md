@@ -63,12 +63,3 @@ I’m especially interested in how computational systems can become expressive, 
 
 ## Goal
 To work at the intersection of **computing and art**, building systems that are not only intelligent — but also intuitive, accessible, and meaningful.
-
-### Digit Classification Algorithms
-Implementation of similarity-based and k-nearest-neighbor digit recognition algorithms in Java.
-
-## Hobbies:
-We founded a women empowerment club at Rutgers called RU Shakti and I am their treasurer.
-I dance, sketch, paint and do henna
-
-## My goal is to find that delicate intersection of computers and art
