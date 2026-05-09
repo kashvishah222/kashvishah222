@@ -62,4 +62,4 @@ I’m especially interested in how computational systems can become expressive, 
 ---
 
 ## Goal
-To work at the intersection of **computing and art**, building systems that are not only intelligent — but also intuitive, accessible, and meaningful.
+To work at the intersection of **computing and art**, building systems that are not only intelligent, but also intuitive, accessible, and meaningful.
